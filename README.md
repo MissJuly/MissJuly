@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on projects that aim to solve environmental problems
-- 📫 How to reach me via email joygitau98@gmaul.com, gitaujoy@yahoo.com
+- 📫 How to reach me via email joygitau98@gmail.com, gitaujoy@yahoo.com
 
 <!---
 MissJuly/MissJuly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
