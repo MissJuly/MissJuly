@@ -23,7 +23,7 @@ I build clean, modern web applications that make brands stand out.
 
 If you’re looking for someone to build your portfolio site, craft a modern web app, or bring your design to life — I’d love to help.
 
-📫 **Email me:** [joyoustech@gmail.com](mailto:joyoustech@gmail.com)
+📫 **Email me:** [joyoustech@gmail.com](mailto:joyoustech08@gmail.com)
 
 ---
 
