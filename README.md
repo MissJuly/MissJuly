@@ -16,8 +16,8 @@ I build clean, modern web applications that make brands stand out.
 ## 🧰 Tech Stack
 
 - **Languages:** Python, JavaScript, HTML, CSS, C
-- **Frameworks:** Django, React
-- **Tools:** PostgreSQL, Git, Figma, VS Code
+- **Frameworks:** Flask, Django, React
+- **Tools:** MySQL, PostgreSQL, Git, Figma, VS Code
 
 ## 🤝 Let’s work together
 
