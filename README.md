@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Joy Gitau
 
-**Full-Stack Developer & UI Designer**  
+**Full-Stack Developer & UI/UX Designer**  
 I build clean, modern web applications that make brands stand out.
 
 ## 🛠️ What I do
